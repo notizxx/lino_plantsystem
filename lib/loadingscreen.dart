@@ -104,7 +104,7 @@ class _LoadingScreenState extends State<LoadingScreen>
             width: diameter * 0.75,
             height: diameter * 0.38,
             child: Image.asset(
-              'assets/images/sips_logo.png',
+              'assets/images/logo_baru.png',
               fit: BoxFit.contain,
               errorBuilder: (_, __, ___) => const Icon(
                 Icons.eco,
